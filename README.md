@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Basti</h1>
 <h3 align="center">A passionate full stack dev from germany</h3>
 
-- 🔭 I’m currently working at [medDV GmbH](https://www.meddv.com/)
+- 🔭 I’m currently working at [Sieger Consulting](https://www.sgc.de/)
 
 - 🌱 I’m currently learning **Blazor**
 
